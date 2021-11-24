@@ -1,0 +1,10 @@
+v 1.0.0
+d 'MINT': Measurement invariance test
+d 
+d Stata module to examine across-groups equivalence of confirmatory factor analysis (CFA) measurement model parameters
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F mint.ado
+F mint.sthlp
